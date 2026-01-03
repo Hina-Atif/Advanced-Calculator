@@ -173,6 +173,12 @@ Invalid Operations: Alerts users when unsupported operations are entered.
 *** 🤝 Contributing ***
 Contributions are welcome! Feel free to fork the project, make improvements, and submit a pull request.
 
+---
+
+## 📘 Blog Post
+Detailed project explanation on Medium:
+🔗 https://medium.com/...
+
 
 
 
